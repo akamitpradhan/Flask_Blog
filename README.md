@@ -15,3 +15,6 @@ The below mentioned are the feature implemeted in this project:
 
 To run the application, make sure to have Python 3 installed and just execute the command - python run.py
 Open browser and Open URL - http://127.0.0.1:5000/
+
+Make sure to have installed all the dependencies from the requirements.txt file before running the application
+To install dependencied, run command - pip install -r requirements.txt
